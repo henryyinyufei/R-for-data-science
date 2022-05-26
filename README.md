@@ -1,10 +1,10 @@
 # STAT 260/261 Introductory for data science
 
-## Calender description:
+## Calender description
 
 An introduction to the R programming language for data science. Exploring data: visualization, transformation and summaries. Data wrangling: reading, tidying, and data types.
 
-## Course details:
+## Course details
 
 <table style="border-collapse: collapse; width: 100%; height: 290px;" border="1">
 <tbody>
